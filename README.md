@@ -70,6 +70,7 @@ Inspired by the awesome work of Tom Vincent in their [validate-commit-msg-bot](h
 
 Give it a star(:star:) :point_up_2:
 
+
 ## License
 
 MIT © [Ammar-Ahmed-Butt] <ammar.butt@atlassiancommunity.com>
