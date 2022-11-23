@@ -49,7 +49,7 @@ cd commitlint-bot
 npm install
 ```
 
-2.  Create your own [GitHub app][]
+2.  Creat your own [GitHub app][]
 3.  Store the private key as `private-key.pem` somewhere safe, and point to its location in `.env`
 4.  Start the app with `APP_ID=1234 npm start` where `1234` is your GitHub app's ID
 5.  Update your GitHub app's Webhook URL to your localtunnel.me URL
