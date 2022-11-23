@@ -28,6 +28,7 @@
 	"dependencies": {
 		"@commitlint/config-conventional": "^8.2.0",
 		"@commitlint/core": "^17.3.0",
+		"@octokit/rest": "^19.0.5",
 		"before-after-hook": "^3.0.2",
 		"coverage": "^0.4.1",
 		"hooks": "^0.3.2",
