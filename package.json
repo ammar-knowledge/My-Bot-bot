@@ -29,6 +29,7 @@
 		"@commitlint/config-conventional": "^8.2.0",
 		"@commitlint/core": "^17.3.0",
 		"before-after-hook": "^3.0.2",
+		"coverage": "^0.4.1",
 		"lint": "^1.1.2",
 		"probot": "^6.2.1"
 	},
