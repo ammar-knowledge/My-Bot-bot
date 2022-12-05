@@ -47,7 +47,7 @@
     "mustache": "^2.2.1",
     "nock": "^9.1.0",
     "npm-run-all": "^4.1.1",
-    "nyc": "^11.2.1",
+    "nyc": "^15.1.0",
     "proxyquire": "^1.8.0",
     "semantic-release": "^19.0.5",
     "simple-mock": "^0.8.0",
