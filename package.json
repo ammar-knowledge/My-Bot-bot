@@ -6,39 +6,39 @@
 	"license": "MIT",
 	"repository": "https://github.com/Ammar-Knowledge/commitlint-bot-glitch-new",
 	"keywords": [
-	  "validate",
-	  "commit",
-	  "pr",
-	  "conventional",
-	  "git",
-	  "probot-app"
+		"validate",
+		"commit",
+		"pr",
+		"conventional",
+		"git",
+		"probot-app"
 	],
 	"main": "index.js",
 	"scripts": {
-	  "now-start": "PRIVATE_KEY=$(echo $PRIVATE_KEY | base64 -d) npm start",
-	  "start": "probot run ./index.js",
-	  "test": "jest"
+		"now-start": "PRIVATE_KEY=$(echo $PRIVATE_KEY | base64 -d) npm start",
+		"start": "probot run ./index.js",
+		"test": "jest"
 	},
 	"files": [
-	  "lib",
-	  "index.js",
-	  "README.md"
+		"lib",
+		"index.js",
+		"README.md"
 	],
 	"dependencies": {
-	  "@commitlint/config-conventional": "^17.3.0",
-	  "@commitlint/core": "^17.3.0",
-	  "js-yaml": "^4.1.0",
-	  "probot": "^12.2.7"
+		"@commitlint/config-conventional": "^17.3.0",
+		"@commitlint/core": "^17.3.0",
+		"js-yaml": "^4.1.0",
+		"probot": "^12.2.7"
 	},
 	"devDependencies": {
-	  "jest": "^29.3.1",
-	  "smee-client": "^1.0.1"
+		"jest": "^29.3.1",
+		"smee-client": "^1.2.3"
 	},
 	"engines": {
-	  "node": "10.x",
-	  "npm": "5.5.x"
+		"node": "10.x",
+		"npm": "5.5.x"
 	},
 	"jest": {
-	  "testEnvironment": "node"
+		"testEnvironment": "node"
 	}
-  }
+}
