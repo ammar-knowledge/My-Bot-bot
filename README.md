@@ -57,7 +57,7 @@ npm install
 
 See [docs/deploy.md](./docs/deploy.md) for more info.
 
-## Credits
+## Creditss
 
 Robot designed by [Freepik](https://www.freepik.com/free-vector/fun-pack-of-robots-avatars_1258314.htm).
 
