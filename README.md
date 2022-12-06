@@ -35,17 +35,14 @@ For best results, enable branch protection (in the repository's settings) and re
 [status-comment-screenshot]: docs/comment.png
 [branch-protection-screenshot]: docs/setting.png
 
-## What is missing?
-
-We don't currently support custom configuration (i.e. `.commitlint.yml` or `.commitlint.json`), but [we will](https://github.com/z0al/commitlint-bot/issues/1)
 
 ## Development
 
 1.  Setup the repo:
 
 ```shell
-git clone https://github.com/z0al/commitlint-bot.git
-cd commitlint-bot
+git clone https://github.com/Ammar-Knowledge/commitlint-bot-glitch-new.git
+cd commitlint-bot-glitch-new
 npm install
 ```
 
@@ -72,4 +69,4 @@ Give it a star(:star:) :point_up_2:
 
 ## License
 
-MIT © [Ahmed T. Ali](https://github.com/z0al)
+MIT © [Ammar Ahmed Butt](https://github.com/ammar-ahmed-butt)

@@ -36,7 +36,7 @@
     "url-template": "^2.0.8"
   },
   "devDependencies": {
-    "@octokit/fixtures": "^5.4.0",
+    "@octokit/fixtures": "^22.0.6",
     "apidoc": "^0.53.1",
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
@@ -47,7 +47,7 @@
     "mustache": "^2.2.1",
     "nock": "^9.1.0",
     "npm-run-all": "^4.1.1",
-    "nyc": "^11.2.1",
+    "nyc": "^15.1.0",
     "proxyquire": "^1.8.0",
     "semantic-release": "^19.0.5",
     "simple-mock": "^0.8.0",
