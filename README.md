@@ -18,7 +18,7 @@ and sets an appropriate status check.
 2.  Accept the permissions
 3.  Allow access to repositories
 
-On the next pull request, a status check from `commitlint` will appear:
+On the next pull ,request, a status check from `commitlint` will appear:
 
 ![status-check-screenshot][]
 
