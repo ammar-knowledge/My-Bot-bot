@@ -29,7 +29,8 @@
 		"@commitlint/core": "^17.3.0",
 		"js-yaml": "^4.1.0",
 		"lint": "^0.8.8",
-		"probot": "^12.2.7"
+		"probot": "^12.2.8",
+		"semantic-release": "^19.0.5"
 	},
 	"devDependencies": {
 		"jest": "^29.3.1",
