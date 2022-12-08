@@ -37,8 +37,8 @@
 		"smee-client": "^1.2.3"
 	},
 	"engines": {
-		"node": "10.x",
-		"npm": "5.5.x"
+		"node": "19.2.0",
+		"npm": "9.1.2"
 	},
 	"jest": {
 		"testEnvironment": "node"
