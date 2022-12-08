@@ -1,17 +1,18 @@
 {
-	"name": "main-nahi-to-kaun",
+	"name": "main-bot",
 	"version": "0.0.0-development",
 	"description": "A GitHub App that runs commitlint for you",
 	"author": "Ammar-Ahmed-Butt <ammar.butt@atlassiancommunity.com> (https://ammarahmed.cf)",
 	"license": "MIT",
-	"repository": "https://github.com/Ammar-Knowledge/commitlint-bot-glitch-new",
+	"repository": "https://github.com/Ammar-Knowledge/main-bot",
 	"keywords": [
 		"validate",
 		"commit",
 		"pr",
 		"conventional",
 		"git",
-		"probot-app"
+		"probot-app",
+		"main-bot"
 	],
 	"main": "index.js",
 	"scripts": {
@@ -29,6 +30,7 @@
 		"@commitlint/core": "^17.3.0",
 		"js-yaml": "^4.1.0",
 		"lint": "^0.8.8",
+		"node": "^19.2.0",
 		"probot": "^12.2.8",
 		"semantic-release": "^19.0.5"
 	},
@@ -37,8 +39,8 @@
 		"smee-client": "^1.2.3"
 	},
 	"engines": {
-		"node": "19.2.0",
-		"npm": "9.1.2"
+		"node": "10.x",
+		"npm": "5.5.x"
 	},
 	"jest": {
 		"testEnvironment": "node"
