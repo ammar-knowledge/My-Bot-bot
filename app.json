@@ -1,7 +1,7 @@
 {
   "name": "main-bot",
   "description": "A GitHub App that runs commitlint for you",
-  "keywords": ["validate", "commit", "pr", "conventional", "git", "probot-app"],
+  "keywords": ["validate", "commit", "pr", "conventional", "git", "probot-app", "main-bot"],
   "repository": "https://github.com/Ammar-Knowledge/main-bot",
   "env": {
     "PRIVATE_KEY": {
