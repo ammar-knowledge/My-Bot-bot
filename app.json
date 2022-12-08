@@ -1,8 +1,8 @@
 {
-  "name": "Main-nahi-to-kaun",
+  "name": "main-bot",
   "description": "A GitHub App that runs commitlint for you",
   "keywords": ["validate", "commit", "pr", "conventional", "git", "probot-app"],
-  "repository": "https://github.com/Ammar-Knowledge/commitlint-bot-glitch-new",
+  "repository": "https://github.com/Ammar-Knowledge/main-bot",
   "env": {
     "PRIVATE_KEY": {
       "description": "the private key of your GitHub App."
