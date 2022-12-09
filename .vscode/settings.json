@@ -2,5 +2,6 @@
     "githubPullRequests.ignoredPullRequestBranches": [
         "as",
         "Newww"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
