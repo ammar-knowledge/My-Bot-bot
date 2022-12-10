@@ -30,6 +30,7 @@
 		"@commitlint/core": "^17.3.0",
 		"js-yaml": "^4.1.0",
 		"lint": "^0.8.8",
+		"localtunnel": "^2.0.2",
 		"node": "^19.2.0",
 		"probot": "^12.2.8",
 		"semantic-release": "^19.0.5",
