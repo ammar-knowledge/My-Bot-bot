@@ -14,8 +14,7 @@ and sets an appropriate status check.
 
 ## Uhy
 
-1.  Browse to [GitHub Apps - commitlint][apps]
-2.  Accept the permissions
+1.  Browse to [GitHub Aissions
 3.  Allow access to repositories
 
 On the next pull ,request, a status check from `commitlint` will appear:
