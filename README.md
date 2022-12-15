@@ -12,7 +12,7 @@
 A GitHub App that runs [commitlint](https://github.com/marionebl/commitlint) against all commits of new or edited pull requests
 and sets an appropriate status check.
 
-## whyy
+## why
 
 1.  Browse to [GitHub Aissions
 3.  Allow access to repositories
