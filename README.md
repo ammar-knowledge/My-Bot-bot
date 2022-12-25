@@ -40,8 +40,8 @@ For best results, enable branch protection (in the repository's settings) and re
 1.  Setup the repo:
 
 ```shell
-git clone https://github.com/Ammar-Knowledge/commitlint-bot-glitch-new.git
-cd commitlint-bot-glitch-new
+git clone https://github.com/Ammar-Knowledge/main-bot.git
+cd main-bot
 npm install
 ```
 
