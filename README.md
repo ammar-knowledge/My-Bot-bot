@@ -14,7 +14,7 @@ and sets an appropriate status check.
 
 ## why
 
-1.  Browse to [GitHub Aissions
+1.  Browse to [GitHub Aissionsn
 3.  Allow access to repositoriess
 
 On the next pull ,request, a status check from `commitlint` will appear:
