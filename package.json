@@ -22,6 +22,10 @@
 	},
 	"files": [
 		"lib",
+		"comments.js",
+		"config.js",
+		"lint.js",
+		"format.js",
 		"index.js",
 		"README.md"
 	],
