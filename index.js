@@ -1,5 +1,5 @@
 // Ours
-const commitlint = require("./lib/lint");
+const commitlint = require(".github/lib/lint");
 const EventSource = require('eventsource');
 
 module.exports = robot => {
