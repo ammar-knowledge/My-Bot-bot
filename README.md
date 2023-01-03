@@ -21,7 +21,7 @@ On the next pull ,request, a status check from `commitlint` will appear:
 
 ![status-check-screenshot][]
 
-Problem details will be reported as aa comment like this:
+Problem details will be reported as a comment like this:
 
 ![status-comment-screenshot][]
 
