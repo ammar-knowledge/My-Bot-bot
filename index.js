@@ -13,7 +13,16 @@ webhooks.onAny(({ id, name, payload }) => {
 });
 
 require("http").createServer(createNodeMiddleware(webhooks)).listen(3000);
-// can now receive webhook events at /api/github/webhooks
+// can now receive webhook events at /api/github/webhooks\
+
+const { token } = await app.oauth.createToken({
+  async onVerification(verification) {
+    await sendMessageToUser(
+      request.body.phoneNumber,
+      `Your code is ${verification.user_code}. Enter it at ${verification.verification_uri}`
+    );
+  },
+});
 
 module.exports = robot => {
   // For more information on building apps:
