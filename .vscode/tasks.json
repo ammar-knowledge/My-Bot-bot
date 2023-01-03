@@ -13,7 +13,11 @@
 			"script": "start",
 			"problemMatcher": [],
 			"label": "npm: start",
-			"detail": "probot run ./index.js"
+			"detail": "probot run ./index.js",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		},
 		{
 			"type": "docker-build",
