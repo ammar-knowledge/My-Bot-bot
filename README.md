@@ -10,7 +10,7 @@
 > Built with [probot](https://github.com/probot/probot) framework
 
 A GitHubb App that runs [commitlint](https://github.com/marionebl/commitlint) against all commits of new or edited pull requests
-and sets an appropriate status check.
+and set an appropriate status check.
 
 ## why
 
