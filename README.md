@@ -15,6 +15,7 @@ and set an appropriate status check.
 ## why
 
 1.  Browse to [GitHub Aissionsn
+2. oh 
 3.  Allow access to repositoriess
 
 On the next pull ,request, a status check from `commitlint` will appear:
