@@ -3,13 +3,6 @@ cache:
   directories:
     - ~/.npm
 node_js:
-  - '12'
+  - '8'
 notifications:
-  email: true
-before_script:
-  - npm prune
-after_success:
-  - npm run semantic-release
-branches:
-  except:
-    - /^v\d+\.\d+\.\d+$/
+  email: false
