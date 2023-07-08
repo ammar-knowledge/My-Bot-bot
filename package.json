@@ -36,7 +36,7 @@
 		"@octokit/webhooks": "^12.0.0",
 		"eventsource": "^2.0.2",
 		"js-yaml": "^4.1.0",
-		"lint": "^0.8.8",
+		"lint": "^1.1.2",
 		"localtunnel": "^2.0.2",
 		"node": "^20.0.0",
 		"octokit": "^2.0.10",
