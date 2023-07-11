@@ -39,7 +39,7 @@
 		"lint": "^1.1.2",
 		"localtunnel": "^2.0.2",
 		"node": "^20.0.0",
-		"octokit": "^2.0.10",
+		"octokit": "^3.0.0",
 		"probot": "^12.2.8",
 		"semantic-release": "^21.0.0",
 		"smee": "^0.2.0"
