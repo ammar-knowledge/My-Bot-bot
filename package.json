@@ -50,7 +50,7 @@
 	},
 	"engines": {
 		"node": "20.x",
-		"npm": "10.1.x"
+		"npm": "10.2.x"
 	},
 	"jest": {
 		"testEnvironment": "node"
