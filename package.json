@@ -38,7 +38,7 @@
 		"js-yaml": "^4.1.0",
 		"lint": "^1.1.2",
 		"localtunnel": "^2.0.2",
-		"node": "^20.0.0",
+		"node": "^21.0.0",
 		"octokit": "^3.0.0",
 		"probot": "^12.2.8",
 		"semantic-release": "^22.0.0",
