@@ -31,8 +31,8 @@
 		"README.md"
 	],
 	"dependencies": {
-		"@commitlint/config-conventional": "^17.3.0",
-		"@commitlint/core": "^17.3.0",
+		"@commitlint/config-conventional": "^18.0.0",
+		"@commitlint/core": "^18.0.0",
 		"@octokit/webhooks": "^12.0.0",
 		"eventsource": "^2.0.2",
 		"js-yaml": "^4.1.0",
