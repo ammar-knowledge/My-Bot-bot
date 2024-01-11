@@ -46,7 +46,7 @@
 	},
 	"devDependencies": {
 		"jest": "^29.3.1",
-		"smee-client": "^1.2.3"
+		"smee-client": "^2.0.0"
 	},
 	"engines": {
 		"node": "21.x",
