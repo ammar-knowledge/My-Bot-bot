@@ -9,23 +9,22 @@
 
 > Built with [probot](https://github.com/probot/probot) framework
 
-A GitHubb App that runs [commitlint](https://github.com/marionebl/commitlint) against all commits of new or edited pull requests
-and set an appropriate status check.
+A GitHubb App that runs [commitlint](https://github.com/marionebl/commitlint) against all commits of new or edited pull requests and reports the commit formatting issues as status checks.
 
 ## why
 
 1.  Browse to [GitHub Aissionsn
 3.  Allow access to repositoriess
 
-On the next pull ,request, a status check from `commitlint` will appear:
+On the next pull ,request, a status check from `commitlint` will appear and report the commit formatting issues.
 
 ![status-check-screenshot][]
 
-Problem details will be reported as comment like this:
+Formatting issues will be reported as comments with details like this:
 
 ![status-comment-screenshot][]
 
-For best results, enable branch protection (in the repository's settings) and require the `commitlint` status check to pass before merging:
+For best results, enable branch protection (in the repository's settings) and require the `commitlint` status check to pass before merging to maintain a clean commit history.
 
 ![branch-protection-screenshot][]
 
