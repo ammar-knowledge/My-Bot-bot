@@ -33,7 +33,7 @@
 	"dependencies": {
 		"@commitlint/config-conventional": "^18.0.0",
 		"@commitlint/core": "^18.0.0",
-		"@octokit/webhooks": "^12.0.0",
+		"@octokit/webhooks": "^13.0.0",
 		"eventsource": "^2.0.2",
 		"js-yaml": "^4.1.0",
 		"lint": "^1.1.2",
