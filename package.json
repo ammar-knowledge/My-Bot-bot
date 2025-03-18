@@ -34,7 +34,7 @@
 		"@commitlint/config-conventional": "^19.0.0",
 		"@commitlint/core": "^19.0.0",
 		"@octokit/webhooks": "^13.0.0",
-		"eventsource": "^2.0.2",
+		"eventsource": "^3.0.0",
 		"js-yaml": "^4.1.0",
 		"lint": "^1.1.2",
 		"localtunnel": "^2.0.2",
